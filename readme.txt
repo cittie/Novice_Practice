@@ -1,0 +1,1 @@
+Work from a Novice started to learn Ruby from Dec. 1st 2012.
